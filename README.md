@@ -41,7 +41,7 @@ File Uploads: Cloudinary
 
 Clone the repository:
 
-git clone [https://github.com/your-username/LMS.git](https://github.com/pearlkayastha1512/lms)
+git clone [https://github.com/your-username/LMS.git](https://github.com/saketsrivatava/LMS-System)
 cd LMS
 
 
